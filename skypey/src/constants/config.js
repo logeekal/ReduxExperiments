@@ -1,0 +1,1 @@
+const EDIT_IMAGE_URL = "https://welfare-fund.pwa.co.th/_intranet/beeldbijeeting.png";
