@@ -1,0 +1,1 @@
+export const withdrawMoney = amount => ({"type":"withdraw", "amount":amount});
